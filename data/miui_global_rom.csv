@@ -1,6 +1,6 @@
 Phone,Device,Type,Version,RomUrl,Size
 Mi 10T/Pro/Lite,Mi 10T/Pro RU,stable_rom,V13.0.1.0.SJDRUXM (MIUI12),https://bigota.d.miui.com/V13.0.1.0.SJDRUXM/miui_APOLLORUGlobal_V13.0.1.0.SJDRUXM_5e0cd1786b_12.0.zip,3.2G
-Mi 10T/Pro/Lite,Mi 10T/Pro EEA,stable_rom,V12.5.12.0.RJDEUXM (MIUI12),https://bigota.d.miui.com/V12.5.12.0.RJDEUXM/miui_APOLLOEEAGlobal_V12.5.12.0.RJDEUXM_cb0759a1f7_11.0.zip,3.0G
+Mi 10T/Pro/Lite,Mi 10T/Pro EEA,stable_rom,V13.0.6.0.SJDEUXM (MIUI12),https://bigota.d.miui.com/V13.0.6.0.SJDEUXM/miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip,3.3G
 Mi 10T/Pro/Lite,Mi 10T/Pro India,stable_rom,V13.0.4.0.SJDINXM (MIUI12),https://bigota.d.miui.com/V13.0.4.0.SJDINXM/miui_APOLLOINGlobal_V13.0.4.0.SJDINXM_7fa4f171f8_12.0.zip,3.2G
 Mi 10T/Pro/Lite,Mi 10T/Pro Global,stable_rom,V13.0.3.0.SJDMIXM (MIUI12),https://bigota.d.miui.com/V13.0.3.0.SJDMIXM/miui_APOLLOGlobal_V13.0.3.0.SJDMIXM_6eb864dfa0_12.0.zip,3.2G
 Mi 10T/Pro/Lite,Mi 10T Lite TW,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V13.0.1.0.SJSTWXM/miui_GAUGUINTWGlobal_V13.0.1.0.SJSTWXM_1dc056f935_12.0.zip,3.0G
@@ -347,7 +347,7 @@ Redmi Note 10,Redmi Note 10 RU,stable_rom,V13.0.1.0.SKGRUXM (),https://bigota.d.
 Redmi Note 10,Redmi Note 10 TR,stable_rom,V13.0.1.0.SKGTRXM (),https://bigota.d.miui.com/V13.0.1.0.SKGTRXM/miui_MOJITOTRGlobal_V13.0.1.0.SKGTRXM_b5dd52c5db_12.0.zip,2.6G
 Redmi Note 10,Redmi Note 10 ID,stable_rom,V13.0.2.0.SKGIDXM (),https://bigota.d.miui.com/V13.0.2.0.SKGIDXM/miui_MOJITOIDGlobal_V13.0.2.0.SKGIDXM_e0240a74fe_12.0.zip,2.6G
 Redmi Note 10,Redmi Note 10 IN,stable_rom,V13.0.1.0.SKGINXM (),https://bigota.d.miui.com/V13.0.1.0.SKGINXM/miui_MOJITOINGlobal_V13.0.1.0.SKGINXM_63facc4b9c_12.0.zip,2.6G
-Redmi Note 10,Redmi Note 10 EEA,stable_rom,V13.0.4.0.SKGEUXM (),https://bigota.d.miui.com/V13.0.4.0.SKGEUXM/miui_MOJITOEEAGlobal_V13.0.4.0.SKGEUXM_d31c70631c_12.0.zip,2.7G
+Redmi Note 10,Redmi Note 10 EEA,stable_rom,V13.0.5.0.SKGEUXM (),https://bigota.d.miui.com/V13.0.5.0.SKGEUXM/miui_MOJITOEEAGlobal_V13.0.5.0.SKGEUXM_b2bf3af8b4_12.0.zip,2.7G
 Redmi Note 10,Redmi Note 10 Global,stable_rom,V13.0.7.0.SKGMIXM (),https://bigota.d.miui.com/V13.0.7.0.SKGMIXM/miui_MOJITOGlobal_V13.0.7.0.SKGMIXM_0289bd91b9_12.0.zip,2.6G
 Redmi Note10 Pro,Redmi Note10 Pro TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SKFTRXM/miui_SWEETTRGlobal_V13.0.3.0.SKFTRXM_e182bdd820_12.0.zip,3.1G
 Redmi Note10 Pro,Redmi Note10 Pro ID,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SKFIDXM/miui_SWEETIDGlobal_V13.0.3.0.SKFIDXM_38ec622e17_12.0.zip,3.1G
