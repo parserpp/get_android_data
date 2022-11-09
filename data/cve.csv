@@ -1,4 +1,49 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2022-2209,2022-11-01,A-235601882,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20441,2022-11-01,A-238605611,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20446,2022-11-01,A-229793943,EoP,High,"10, 11",framework,N/A,
+CVE-2022-20448,2022-11-01,A-237540408,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20450,2022-11-01,A-210065877,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20452,2022-11-01,A-240138318,EoP,High,13,framework,N/A,
+CVE-2022-20457,2022-11-01,A-243924784,EoP,High,13,framework,N/A,
+CVE-2022-20426,2022-11-01,A-236263294,DoS,High,"10, 11, 12, 12L, 13",multiple-components,N/A,
+CVE-2022-20451,2022-11-01,A-235098883,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20454,2022-11-01,A-242096164,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20462,2022-11-01,A-230356196,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20463,2022-11-01,A-231985227,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20465,2022-11-01,A-218500036,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20445,2022-11-01,A-225876506,ID,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20447,2022-11-01,A-233604485,ID,High,13,system,N/A,
+CVE-2022-20414,2022-11-01,A-234441463,DoS,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20453,2022-11-01,A-240685104,DoS,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-2209,2022-11-01,N/A,N/A,N/A,N/A,google-play-updates,N/A,Subcomponent=Media Framework components
+CVE-2022-20463,2022-11-01,N/A,N/A,N/A,N/A,google-play-updates,N/A,Subcomponent=WiFi
+CVE-2021-1050,2022-11-05,A-243825200 [*](#asterisk),N/A,High,N/A,imagination-technologies,N/A,Subcomponent=PowerVR-GPU
+CVE-2021-39661,2022-11-05,A-246824784 [*](#asterisk),N/A,High,N/A,imagination-technologies,N/A,Subcomponent=PowerVR-GPU
+CVE-2022-32601,2022-11-05,A-234038598 [*](#asterisk),N/A,High,N/A,mediatek-components,N/A,Subcomponent=telephony
+CVE-2022-32602,2022-11-05,A-245050053 [*](#asterisk),N/A,High,N/A,mediatek-components,N/A,Subcomponent=keyinstall
+CVE-2022-2984,2022-11-05,A-244673210 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Kernel
+CVE-2022-2985,2022-11-05,A-244657985 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Android
+CVE-2022-38669,2022-11-05,A-244666286 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Android
+CVE-2022-38670,2022-11-05,A-244674480 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Android
+CVE-2022-39105,2022-11-05,A-245210875 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Kernel
+CVE-2022-38672,2022-11-05,A-244684957 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Kernel
+CVE-2022-38673,2022-11-05,A-246482122 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Kernel
+CVE-2022-38676,2022-11-05,A-244683429 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Kernel
+CVE-2022-38690,2022-11-05,A-244109033 [*](#asterisk),N/A,High,N/A,unisoc-components,N/A,Subcomponent=Kernel
+CVE-2022-25724,2022-11-05,A-238106223 [QC-CR#3090325](https://git.codelinaro.org/clo/la/kernel/msm-4.14/-/commit/d3a79f61ced88351381a881d15c715658e9066c7) [2](https://git.codelinaro.org/clo/la/kernel/msm-3.18/-/commit/c9b3b88b767cca85fe504289edf31eb1599c21f4) [3](https://git.codelinaro.org/clo/la/kernel/msm-5.4/-/commit/ac7349dd70e6d8612c16f282b9f42e6a2d0742a8),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Display
+CVE-2022-25741,2022-11-05,A-240972788 [QC-CR#3147273](https://git.codelinaro.org/clo/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/-/commit/c1dba00faf5661f3053f4d021ebd6794136f4eb5),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=WLAN
+CVE-2022-25743,2022-11-05,A-240973083 [QC-CR#3153406](https://git.codelinaro.org/clo/la/kernel/msm-3.18/-/commit/7ada2c15e39e5288b67ed5ae94b0a8dcb181b911),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Display
+CVE-2021-35122,2022-11-05,A-213239915 [*](#asterisk),N/A,Critical,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2021-35108,2022-11-05,A-209469945 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2021-35109,2022-11-05,A-209469824 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2021-35132,2022-11-05,A-213240063 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2021-35135,2022-11-05,A-213239949 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2022-25671,2022-11-05,A-231156429 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2022-33234,2022-11-05,A-240971780 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2022-33236,2022-11-05,A-240973180 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2022-33237,2022-11-05,A-240972236 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
+CVE-2022-33239,2022-11-05,A-240982982 [*](#asterisk),N/A,High,N/A,qualcomm-components,N/A,Subcomponent=Closed-source component
 CVE-2022-20419,2022-10-01,[A-237290578](https://android.googlesource.com/platform/frameworks/base/+/e5dd8be748c76c11615050c610dfc1fae73ad4a4),ID,Critical,"12L, 13",framework,N/A,
 CVE-2022-20420,2022-10-01,[A-238377411](https://android.googlesource.com/platform/frameworks/base/+/95e7a3ee33d3665ec46570dd0b1a6db614384570),EoP,High,13,framework,N/A,
 CVE-2022-20351,2022-10-01,[A-224771921](https://android.googlesource.com/platform/packages/providers/ContactsProvider/+/571be94b55445553a86825d95a63afe05cfba6bd),ID,High,"10, 11, 12, 12L",framework,N/A,
@@ -4359,6 +4404,11 @@ CVE-2015-1541,2015-08-01,[ANDROID-19618745](https://android.googlesource.com/pla
 CVE-2015-3833,2015-08-01,[ANDROID-20034603](https://android.googlesource.com/platform/frameworks/base/+/aaa0fee0d7a8da347a0c47cef5249c70efee209e),N/A,Moderate,5.0 and 5.1,mitigation_bypass_of_restrictions_on_getrecenttasks,N/A,
 CVE-2015-3844,2015-08-01,[ANDROID-21669445](https://android.googlesource.com/platform/frameworks/base/+/e3cde784e3d99966f313fe00dcecf191f6a44a31),N/A,Moderate,5.1 and below,activitymanagerservice_getprocessrecordlocked_may_load_a_system_uid_application_into_the_wrong_process,N/A,
 CVE-2015-3826,2015-08-01,[ANDROID-20923261](https://android.googlesource.com/platform/frameworks/av/+/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1),N/A,Low,5.0 and 5.1,unbounded_buffer_read_in_libstagefright_while_parsing_3gpp_metadata,N/A,
+CVE-2022-20459,2022-11-01,A-239556260 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Titan M
+CVE-2022-20460,2022-11-01,A-239557547 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Titan M
+CVE-2022-25674,2022-11-01,A-231226928 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2022-25676,2022-11-01,A-231226556 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2022-25679,2022-11-01,A-215246183 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2022-20231,2022-10-01,A-211485702 [*](#asterisk),EoP,Critical,N/A,pixel,Trusty,
 CVE-2022-20364,2022-10-01,A-233606615 [*](#asterisk),EoP,Critical,N/A,pixel,Kernel,
 CVE-2022-20397,2022-10-01,A-223086933 [*](#asterisk),EoP,High,N/A,pixel,libsitril-se,
