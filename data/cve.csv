@@ -1,4 +1,5 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2026-0163,2026-08-01,A-493648935 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Video Processing Unit
 CVE-2026-0125,2026-06-01,A-492569239 [*](#asterisk),EoP,High,N/A,kernel-components,N/A,Subcomponent=Video Processing Unit
 CVE-2026-0126,2026-06-01,A-472711335 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=WC-Radio
 CVE-2026-0132,2026-06-01,A-449160232 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
